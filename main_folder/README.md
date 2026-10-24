@@ -212,6 +212,6 @@ Built as a professional-grade data analysis tool demonstrating modern GUI develo
 
 
 <!-- 
-cd "C:\Users\Sakshi\Documents\APC_mini-project\data-visualization-dashboard-main"
+cd "C:\Users\Sakshi\Documents\APC_mini-project\main_folder"
 py -m pip install -r requirements.txt
 py main.py -->
