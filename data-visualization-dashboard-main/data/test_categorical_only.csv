@@ -1,0 +1,11 @@
+Region,Product,Category,Status
+North,Widget,Electronics,Active
+South,Gadget,Electronics,Pending
+East,Doohickey,Home,Active
+West,Widget,Home,Completed
+North,Gizmo,Electronics,Active
+South,Doohickey,Home,Pending
+East,Widget,Electronics,Completed
+West,Gadget,Home,Active
+North,Gizmo,Home,Pending
+South,Widget,Electronics,Active

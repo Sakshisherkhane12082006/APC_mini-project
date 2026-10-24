@@ -1,0 +1,39 @@
+============================================================
+DATA VISUALIZATION DASHBOARD - SUMMARY REPORT
+============================================================
+Generated  : 2026-08-06 18:25:29
+Dataset    : sales_data.csv
+Rows       : 500
+Columns    : 6
+Column names: Date, Region, Product, UnitsSold, UnitPrice, Revenue
+------------------------------------------------------------
+DESCRIPTIVE STATISTICS (numeric columns)
+------------------------------------------------------------
+Column: UnitsSold
+  Mean   : 58.692
+  Median : 55.5
+  Mode   : 39.0
+  Min    : 1.0
+  Max    : 119.0
+  Std    : 34.263
+
+Column: UnitPrice
+  Mean   : 130.68
+  Median : 126.265
+  Mode   : 83.58
+  Min    : 6.05
+  Max    : 249.71
+  Std    : 71.304
+
+Column: Revenue
+  Mean   : 7603.241
+  Median : 6104.925
+  Mode   : 329.7
+  Min    : 71.84
+  Max    : 28711.13
+  Std    : 6441.499
+
+============================================================
+
+
+

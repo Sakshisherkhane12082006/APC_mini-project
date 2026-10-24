@@ -1,0 +1,39 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated user output (keep the sample charts/report that ship with the repo,
+# but ignore anything a user generates locally at runtime)
+charts/*.png
+!charts/line_chart.png
+!charts/bar_chart.png
+!charts/pie_chart.png
+!charts/histogram.png
+!charts/scatter_plot.png
+
+reports/*.txt
+!reports/summary.txt
+
+# Logs
+*.log
